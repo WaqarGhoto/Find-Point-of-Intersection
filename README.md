@@ -1,1 +1,1 @@
-# Find-Point-of-Intersection
+# Find-Point-of-Intersection between two lines 
