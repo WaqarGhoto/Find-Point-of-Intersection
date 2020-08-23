@@ -1,1 +1,1 @@
-# Find-Point-of-Intersection between two lines 
+# Find-Point-of-Intersection between two lines in C++
